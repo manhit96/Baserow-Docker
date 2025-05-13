@@ -1,0 +1,4 @@
+.env
+
+baserow_data/*
+!baserow_data/.gitkeep
